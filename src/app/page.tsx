@@ -149,6 +149,9 @@ export default function Home() {
           <div className="inline-block px-3 py-1 bg-blue-50 text-apple-mutedBlue rounded-full text-xs font-semibold border border-blue-100">
             Open to Data, Business, &amp; Product Analyst Roles
           </div>
+          <p className="text-xl sm:text-2xl font-semibold tracking-tight text-gray-500 font-display">
+            Palagiri Shashank Reddy
+          </p>
           <h1 className="text-4xl sm:text-7xl font-bold font-display tracking-tight text-apple-graphite leading-none">
             Transforming Data Into <br/>
             <span className="bg-gradient-to-r from-apple-mutedBlue to-apple-indigo bg-clip-text text-transparent">
